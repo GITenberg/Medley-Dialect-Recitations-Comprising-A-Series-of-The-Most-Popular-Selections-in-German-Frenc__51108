@@ -1,4 +1,5 @@
 _repo: Medley-Dialect-Recitations-Comprising-A-Series-of-The-Most-Popular-Selections-in-German-Frenc__51108
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -11,6 +12,9 @@ contributor:
       gutenberg_agent_id: '44486'
       url: http://www.gutenberg.org/2009/agents/44486
       wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
+covers:
+- cover_type: archival
+  image_path: 51108-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -18,6 +22,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51108#Medley-Dialect-Recitations-Comprising-A-Series-of-The-Most-Popular-Selections-in-German-Frenc_
 gutenberg_issued: '2016-02-02'
 gutenberg_type: Text
 identifiers:
