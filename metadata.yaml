@@ -32,6 +32,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Medley Dialect Recitations Comprising A Series of The Most Popular Selections
   in German, French, Scotch
 url: http://www.gutenberg.org/ebooks/51108
